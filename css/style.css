@@ -1,0 +1,17 @@
+ body {
+    margin-top: 60px;
+    text-monospace;
+  }
+  #lisa{
+    margin: 0px;
+    font-weight: 700;
+ /*  font-family: 'Merienda', cursive; */
+  }
+    
+  h2 {
+    font-size: 2em;
+    }
+    
+  img {
+    margin: 50px 0px 50px 0px;
+  }
